@@ -1,5 +1,5 @@
-# Dummy grafana stack
-Spins up a local grafana with:
+# Dummy grafana telemetry stack
+Spins up a local grafana stack with:
 
 * [Grafana](https://grafana.com/grafana/)
 * [Alloy](https://grafana.com/docs/alloy/latest/)

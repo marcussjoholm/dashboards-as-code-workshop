@@ -1,4 +1,4 @@
-name: dummy-monitoring-stack
+name: dummy-telemetry-stack
 
 services:
   grafana:
